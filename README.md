@@ -1,7 +1,5 @@
 # Kesk-ia-MonAmiDobby
 
-# Kesk-ia-MonAmiDobby
-
 # Séance 1 :
 
 - Jeu de données MLMA : jeu de donné avec plusieurs types de sentiments (offensifs, haineux, normal), ils avaient l'air coherant mais quelques fois il y avait des groupes mal identifié exemple : mangole -> group : indian 
